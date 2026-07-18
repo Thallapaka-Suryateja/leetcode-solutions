@@ -11,17 +11,13 @@ class Solution(object):
         :type q: Optional[TreeNode]
         :rtype: bool
         """
-        arr1 = []
-        arr2 = []
-        
-        def preorder(root, arr):
-            if root is None:
-                arr.append(None)
-                return
-            arr.append(root.val)
-            preorder(root.left, arr)
-            preorder(root.right, arr)
-            
-        preorder(p, arr1)
-        preorder(q, arr2)
-        return arr1==arr2
+        if p is None and q is None:
+            return True
+
+        if p is None or q is None:
+            return False
+
+        if p.val != q.val:
+            return False
+
+        return (self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right))
