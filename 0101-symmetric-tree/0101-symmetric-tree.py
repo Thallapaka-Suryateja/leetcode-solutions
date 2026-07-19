@@ -10,12 +10,35 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: bool
         """
-        def mirror(left,right):
-            if left is None and right is None:
-                return True
-            if left is None or right is None or left.val!=right.val:
-                return False
-            return mirror(left.left,right.right) and mirror(left.right,right.left)
         if root is None:
             return True
-        return mirror(root.left,root.right)
+        
+        s1 = []
+        s2 = []
+
+   
+        s1.append(root.left)
+        s2.append(root.right)
+
+        while s1 and s2:
+      
+       
+            node1 = s1.pop()
+            node2 = s2.pop()
+
+        
+            if node1 is None and node2 is None:
+                continue
+
+            if node1 is None or node2 is None or node1.val != node2.val:
+                return False
+
+        
+            s1.append(node1.left)
+            s2.append(node2.right)
+
+        
+            s1.append(node1.right)
+            s2.append(node2.left)
+
+        return len(s1) == 0 and len(s2) == 0
