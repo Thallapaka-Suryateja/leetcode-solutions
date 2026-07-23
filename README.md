@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0136-single-number) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
