@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0136-single-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
