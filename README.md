@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -71,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -94,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
