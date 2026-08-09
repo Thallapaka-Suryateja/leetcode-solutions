@@ -4,9 +4,16 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        count={}
-        for num in nums:
-            count[num] = count.get(num, 0) + 1
+        candidate = None
+        count = 0
 
-            if count[num] > len(nums) // 2:
-                return num
+        for num in nums:
+            if count == 0:
+                candidate = num
+
+            if num == candidate:
+                count += 1
+            else:
+                count -= 1
+
+        return candidate
