@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Trie
 |  |
 | ------- |
@@ -96,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Divide and Conquer
 |  |
