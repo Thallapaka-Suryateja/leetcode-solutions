@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
