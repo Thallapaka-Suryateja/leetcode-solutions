@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0661-image-smoother](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
