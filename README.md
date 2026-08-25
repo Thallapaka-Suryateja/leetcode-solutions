@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
