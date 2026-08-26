@@ -6,23 +6,16 @@ class Solution(object):
         """
         if not s:
             return 0
-        length=0
-        i=0
-        k=1
-        j=len(s)
-        res={s[i]}
-        while k<j and i<j:
-            if s[k] not in res:
-                res.add(s[k])
-                k+=1
-            else:
-                length1=k-i
-                if length < length1:
-                    length = length1
-                i+=1
-                k=i+1
-                res={s[i]}
-        if len(res)>length:
-            length=len(res)
+        res = set()
+        i = 0
+        length = 0
+
+        for k in range(len(s)):
+            while s[k] in res:
+                res.remove(s[i])
+                i += 1
+
+            res.add(s[k])
+            length = max(length, k - i + 1)
+
         return length
-                
