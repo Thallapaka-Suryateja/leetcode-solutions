@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Thallapaka-Suryateja/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
