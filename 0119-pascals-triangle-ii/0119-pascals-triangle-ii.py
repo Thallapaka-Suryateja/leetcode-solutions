@@ -4,14 +4,10 @@ class Solution(object):
         :type rowIndex: int
         :rtype: List[int]
         """
-        arr = []
+        row = [1] * (rowIndex + 1)
 
-        for i in range(rowIndex + 1):
-            row = [1] * (i + 1)
+        for i in range(1, rowIndex):
+            for j in range(i, 0, -1):
+                row[j] = row[j] + row[j - 1]
 
-            for j in range(1, i):
-                row[j] = arr[i - 1][j - 1] + arr[i - 1][j]
-
-            arr.append(row)
-
-        return arr[rowIndex]
+        return row
