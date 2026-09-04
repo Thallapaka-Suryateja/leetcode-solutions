@@ -21,6 +21,6 @@ class Solution(object):
             arr[level].append(root.val)
             lorder(root.left,level+1)
             lorder(root.right,level+1)
-            return arr
-        arr = lorder(root,0)
+    
+        lorder(root,0)
         return arr
