@@ -13,14 +13,17 @@ class Solution(object):
         arr=[]
         if root is None:
             return []
-        def lorder(root,level):
-            if root is None:
-                return 
-            if len(arr) <= level:
-                arr.append([])
-            arr[level].append(root.val)
-            lorder(root.left,level+1)
-            lorder(root.right,level+1)
-    
-        lorder(root,0)
+        arr = []
+        queue = [root]
+        while queue:
+            level = []
+
+            for i in range(len(queue)):
+                node = queue.pop(0)
+                level.append(node.val)
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+            arr.append(level)
         return arr
